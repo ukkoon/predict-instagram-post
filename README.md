@@ -16,7 +16,7 @@
    pip install -r requirements.txt
    ```
 
-2. 프로젝트를 실행하기 위해 Instagram 게시글 데이터를 수집해야 합니다. 이를 위해 [insta scrapper](https://github.com/ukkoon/insta-scrapper)를 사용할 수 있습니다.
+2. 프로젝트를 실행하기 위해 Instagram 게시글 데이터를 수집해야 합니다. 이를 위해 [scarpping-instagram](https://github.com/ukkoon/scarpping-instagram)를 사용할 수 있습니다.
 
 3. (option)데이터 전처리를 진행합니다. caption값을 lint합니다. (목표 게시글의 성격에 따라 공백 · 숫자 등을 제거할 수 있습니다.)
 
